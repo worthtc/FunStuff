@@ -1,0 +1,6 @@
+# .pairs - configuration for 'git pair'
+pairs:
+  sw: savannah worth; sdworth11
+  tw: trevor worth; trevor.c.worth
+email:
+  domain: gmail.com
